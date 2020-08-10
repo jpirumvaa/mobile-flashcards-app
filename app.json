@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-flashcard",
-    "slug": "mobile-flashcard",
+    "name": "flashcards",
+    "slug": "flashcards",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
